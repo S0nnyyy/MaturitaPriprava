@@ -1,7 +1,7 @@
 # MaturitaPriprava
 Příprava na maturitu
 
-Tento projekt je zaměřen na jednoduché spracování úkolů u maturity vytvořeného programu v programu NetBeans. 
+Tento projekt je zaměřen na jednoduché zpracování úkolů u maturity vytvořeného programu v programu NetBeans. 
 Jeho cílem je minimalizovat potřebný čas pro napsání kódu a umožnit vám věnovat se dalším úkolům při přípravě na maturitu.
 
 Projekt obsahuje UI prvky pro snadnou interakci s uživatelem. Je vytvořen tak, aby byl snadno použitelný a měl minimální požadavky na znalosti programování.
