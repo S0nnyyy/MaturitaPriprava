@@ -1,6 +1,8 @@
 # MaturitaPriprava
 Příprava na maturitu
 
+Jedná se o zadání, které mají připravit na maturitní zkoušku. Hlavním úkolem těchto zadání je zopakovat si řešení měnších problémů.
+
 Tento projekt je zaměřen na jednoduché zpracování úkolů u maturity vytvořeného programu v programu NetBeans. 
 Jeho cílem je minimalizovat potřebný čas pro napsání kódu a umožnit vám věnovat se dalším úkolům při přípravě na maturitu.
 
